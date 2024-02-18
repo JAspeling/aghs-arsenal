@@ -1,0 +1,9 @@
+{
+  "name": "heroes",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/heroes/src",
+  "prefix": "aghs-arsenal",
+  "tags": [],
+  "projectType": "library",
+  "targets": {}
+}
